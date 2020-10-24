@@ -1,0 +1,11 @@
+certifi
+future
+oauthlib
+peewee~=3.13.3
+python-telegram-bot
+requests
+requests-oauthlib
+six
+tweepy~=3.9.0
+urllib3
+pytz~=2020.1
